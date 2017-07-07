@@ -1,4 +1,4 @@
-##COURSE AGENDA
+## COURSE AGENDA
 #### "Just open the terminal"
 - Just open the terminal
 - Why use a terminal?
